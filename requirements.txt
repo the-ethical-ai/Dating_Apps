@@ -1,0 +1,17 @@
+pandas
+numpy
+string
+datetime
+re
+matplotlib
+seaborn
+plotly
+textblob
+wordcloud
+nltk
+sklearn
+time
+pickle
+xgboost
+tensorflow
+keras

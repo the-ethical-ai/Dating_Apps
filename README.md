@@ -5,5 +5,5 @@ here covers the cleaning, statistical analysis, and visualization of the over 65
 from 2017 to 2022.
 ---
 ## Updates/Progress Report
-July 22, 2023: Initial notebook upload; data cleaning complete.
-July 26, 2023: Added first wordcloud; created barplots showing rating distributions
+* July 22, 2023: Initial notebook upload; data cleaning complete.
+* July 26, 2023: Added first wordcloud; created barplots showing rating distributions
